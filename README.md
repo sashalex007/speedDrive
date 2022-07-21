@@ -40,7 +40,7 @@ The sleeves will be very tough to fit into the mount holes, but should eventuall
 
 See comments section for more installation tips.
 
-Also see this great installation video by [YouMakeTech](https://www.thingiverse.com/youmaketech/designs)
+Also see this great installation video by [YouMakeTech](https://www.thingiverse.com/youmaketech/designs) \
 https://www.youtube.com/embed/Zbk0viFC1ew
 
 ## COOLING
