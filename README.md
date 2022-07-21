@@ -128,8 +128,8 @@ Pretty nice upgrade, but it's important to mention that it has a couple limitati
 ## FILES YOU NEED
 
 ### Stock extruder (no cable links)
-speedDrive_mount.stl \
-speedDrive_endstop.stl
+`speedDrive_mount.stl` \
+`speedDrive_endstop.stl`
 
 ### Stock extruder (cable links version A)
 `speedDrive_mount_cableClip.stl` \
