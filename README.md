@@ -2,7 +2,7 @@
 
 Update: Moving this project to github
 
-![Screenshot](bmgSpeeddrive.png)
+![Screenshot](speeddrive.png)
 
 The motivation behind creating the SpeedDrive mount was to extract maximum performance out of my ender3 with mostly stock parts. Print FAST with near-perfect quality. After pushing Bowden to its limit, I came to the conclusion (like many others), that sharp and accurate corners are simply impossible with a Bowden setup. Bowden setups are great for models with curvature, but for my particular uses, I was printing precisely engineered parts that often needed to fit together. Bowden setups produce poor corners because of imprecise linear/pressure advance due to play and friction inside the Bowden tube. This can be reduced to some extent, but never entirely eliminated.
 
