@@ -173,4 +173,4 @@ Thanks to [paydayxray](https://www.thingiverse.com/paydayxray/about) for the rem
 Thanks to [stijoh](https://www.thingiverse.com/thing:4348063) for the remix supporting BMG extruder for the ender 5 \
 Thanks to to [Cyg0r3](https://www.thingiverse.com/Cyg0r3/about) for the remix supporting the Geeetech A10 \
 Thanks to to [Garigen](https://www.thingiverse.com/garigm/designs) for the remix supporting the EZR Struder \
-Thanks to [YouMakeTech](https://www.thingiverse.com/youmaketech/designs) for the great installation video \
+Thanks to [YouMakeTech](https://www.thingiverse.com/youmaketech/designs) for the great installation video 
