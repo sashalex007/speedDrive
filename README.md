@@ -1,5 +1,8 @@
 # SpeedDrive documentation 
 
+### Update 2022
+All future files and updates will be on this github repo
+
 The motivation behind creating the SpeedDrive mount was to extract maximum performance out of my ender3 with mostly stock parts. Print FAST with near-perfect quality. After pushing Bowden to its limit, I came to the conclusion (like many others), that sharp and accurate corners are simply impossible with a Bowden setup. Bowden setups are great for models with curvature, but for my particular uses, I was printing precisely engineered parts that often needed to fit together. Bowden setups produce poor corners because of imprecise linear/pressure advance due to play and friction inside the Bowden tube. This can be reduced to some extent, but never entirely eliminated.
 
 I started playing around with various mount designs and found them to be inadequate. The corners were good, but ringing and vibration prevented high speed printing and good bed adhesion. The orientation of the motor and distance from the X extrusion was not suited for sufficient inertial dampening.  
@@ -130,22 +133,22 @@ speedDrive_mount.stl \
 speedDrive_endstop.stl
 
 ### Stock extruder (cable links version A)
-speedDrive_mount_cableClip.stl \
-speedDrive_endstop.stl \
+`speedDrive_mount_cableClip.stl` \
+`speedDrive_endstop.stl` \
 https://www.thingiverse.com/thing:3475424
 
 ### BMG extruder (no cable links)
-speedDrive_mount_bmg.stl \
-speedDrive_endstop_bmg.stl 
+`speedDrive_mount_bmg.stl` \
+`speedDrive_endstop_bmg.stl` 
 
 ### BMG extruder (cable links version A)
-speedDrive_mount_bmg_cableClip.stl \
-speedDrive_endstop_bmg.stl \
+`speedDrive_mount_bmg_cableClip.stl` \
+`speedDrive_endstop_bmg.stl` \
 https://www.thingiverse.com/thing:3475424
 
 ### CR-10s PRO extruder
 [Remix by fsironman](https://www.thingiverse.com/thing:3956497) \
-speedDrive_endstop.stl
+`speedDrive_endstop.stl`
 
 ### Redrex geared extruder
 [Remix by huubert](https://www.thingiverse.com/thing:4159487)
@@ -164,7 +167,7 @@ speedDrive_endstop.stl
 [Clever X-cover with endstop by R3br0d0n](https://www.thingiverse.com/thing:4068615) (BMG only)
 
 ## STEP FILES FOR DESIGNERS
-speedDrive_stepFile.step
+`speedDrive_stepFile.step`
 
 
 ## CREDITS 
