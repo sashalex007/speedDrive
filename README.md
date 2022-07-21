@@ -1,6 +1,6 @@
 # SpeedDrive documentation 
 
-Update: Moving this project to github. Future updates will be here.
+Update: Moving this project to github. Future updates will be here. Included step file.
 
 ![Screenshot](speeddrive.png)
 
