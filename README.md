@@ -122,25 +122,25 @@ Pretty nice upgrade, but it's important to mention that it has a couple limitati
 ## FILES YOU NEED
 
 ### Stock extruder (no cable links)
-speedDrive_mount.stl
+speedDrive_mount.stl \
 speedDrive_endstop.stl
 
 ### Stock extruder (cable links version A)
-speedDrive_mount_cableClip.stl
-speedDrive_endstop.stl
+speedDrive_mount_cableClip.stl \
+speedDrive_endstop.stl \
 https://www.thingiverse.com/thing:3475424
 
 ### BMG extruder (no cable links)
-speedDrive_mount_bmg.stl
-speedDrive_endstop_bmg.stl
+speedDrive_mount_bmg.stl \
+speedDrive_endstop_bmg.stl 
 
 ### BMG extruder (cable links version A)
-speedDrive_mount_bmg_cableClip.stl
-speedDrive_endstop_bmg.stl
+speedDrive_mount_bmg_cableClip.stl \
+speedDrive_endstop_bmg.stl \
 https://www.thingiverse.com/thing:3475424
 
 ### CR-10s PRO extruder
-[Remix by fsironman](https://www.thingiverse.com/thing:3956497)
+[Remix by fsironman](https://www.thingiverse.com/thing:3956497) \
 speedDrive_endstop.stl
 
 ### Redrex geared extruder
@@ -162,15 +162,15 @@ speedDrive_endstop.stl
 
 ## CREDITS 
 
-Design for V-wheel mount is from [here](https://www.thingiverse.com/thing:3369418)
-Bullseye ducts can be found [here](https://www.thingiverse.com/thing:2759439)
-Hero Me ducts [here](https://www.thingiverse.com/thing:3182917)
-Special thanks to u/TianZiGaming for educating me on direct drive setups.
-Thanks to u/ColonelMu5t4rd for beta testing the BMG version.
-Thanks to [fsironman](https://www.thingiverse.com/fsironman/about) for the remix supporting the CR-10s PRO extruder.
-Thanks to [huubert](https://www.thingiverse.com/huubert) for the remix supporting the Redrex extruder
-Thanks to [paydayxray](https://www.thingiverse.com/paydayxray/about) for the remix supporting the ender 5
-Thanks to [stijoh](https://www.thingiverse.com/thing:4348063) for the remix supporting BMG extruder for the ender 5
-Thanks to to [Cyg0r3](https://www.thingiverse.com/Cyg0r3/about) for the remix supporting the Geeetech A10
-Thanks to to [Garigen](https://www.thingiverse.com/garigm/designs) for the remix supporting the EZR Struder
-Thanks to [YouMakeTech](https://www.thingiverse.com/youmaketech/designs) for the great installation video
+Design for V-wheel mount is from [here](https://www.thingiverse.com/thing:3369418) \
+Bullseye ducts can be found [here](https://www.thingiverse.com/thing:2759439) \
+Hero Me ducts [here](https://www.thingiverse.com/thing:3182917) \
+Special thanks to u/TianZiGaming for educating me on direct drive setups. \
+Thanks to u/ColonelMu5t4rd for beta testing the BMG version. \
+Thanks to [fsironman](https://www.thingiverse.com/fsironman/about) for the remix supporting the CR-10s PRO extruder. \
+Thanks to [huubert](https://www.thingiverse.com/huubert) for the remix supporting the Redrex extruder \
+Thanks to [paydayxray](https://www.thingiverse.com/paydayxray/about) for the remix supporting the ender 5 \
+Thanks to [stijoh](https://www.thingiverse.com/thing:4348063) for the remix supporting BMG extruder for the ender 5 \
+Thanks to to [Cyg0r3](https://www.thingiverse.com/Cyg0r3/about) for the remix supporting the Geeetech A10 \
+Thanks to to [Garigen](https://www.thingiverse.com/garigm/designs) for the remix supporting the EZR Struder \
+Thanks to [YouMakeTech](https://www.thingiverse.com/youmaketech/designs) for the great installation video \
