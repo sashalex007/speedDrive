@@ -43,6 +43,10 @@ https://www.youtube.com/embed/Zbk0viFC1ew
 
 ## COOLING
 
+### UPDATE 2022
+I have since removed all part cooling from my setup because I now only print with nylon and polycarbonate. Part cooling is undesirable for these materials. In light of this, I have designed a new cooling base (based on herome design) with an integrated BLtouch mount. This is the setup shown in the top image. See the following file:  \
+speedDrive_heromeBase_bltouch_combined.stl
+
 ### Stock 4010
 Cooling at these speeds becomes an issue. Staying true to stock parts, my goal was to squeeze the most cooling performance out of the 4010 blower. I was was very disappointed with the Hero Me because I really liked the compact design. There are some who feel that it's equal to the bullseye, but I have not seen tests at these kinds of speeds. I found the Hero Me's cooling to be too asymmetrical and lacking correct directionality due to the duct design. The designer of the hero me himself was reluctant to adapt his design to the 4010 cooler, and only did so as a user request. 
 
@@ -158,6 +162,9 @@ speedDrive_endstop.stl
 ### OPTIONAL MODS
 [Pi camera mount by elcojacobs](https://www.thingiverse.com/thing:3965589)
 [Clever X-cover with endstop by R3br0d0n](https://www.thingiverse.com/thing:4068615) (BMG only)
+
+## STEP FILES FOR DESIGNERS
+speedDrive_stepFile.step
 
 
 ## CREDITS 
