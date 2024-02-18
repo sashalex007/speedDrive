@@ -49,7 +49,7 @@ https://www.youtube.com/embed/Zbk0viFC1ew
 
 ### UPDATE 2022
 I have since removed all part cooling from my setup because I now only print with nylon and polycarbonate. Part cooling is undesirable for these materials. In light of this, I have designed a new cooling base (based on herome design) with an integrated BLtouch mount. This is the setup shown in the top image. See the following file:  \
-`speedDrive_heromeBase_bltouch_combined.stl`
+[`speedDrive_heromeBase_bltouch_combined.stl`](./STL/speedDrive_heromeBase_bltouch_combined.stl)
 
 ### Stock 4010
 Cooling at these speeds becomes an issue. Staying true to stock parts, my goal was to squeeze the most cooling performance out of the 4010 blower. I was was very disappointed with the Hero Me because I really liked the compact design. There are some who feel that it's equal to the bullseye, but I have not seen tests at these kinds of speeds. I found the Hero Me's cooling to be too asymmetrical and lacking correct directionality due to the duct design. The designer of the hero me himself was reluctant to adapt his design to the 4010 cooler, and only did so as a user request. 
@@ -130,26 +130,26 @@ Pretty nice upgrade, but it's important to mention that it has a couple limitati
 ## FILES YOU NEED
 
 ### Stock extruder (no cable links)
-`speedDrive_mount.stl` \
-`speedDrive_endstop.stl`
+[`speedDrive_mount.stl`](./STL/speedDrive_mount.stl) \
+[`speedDrive_endstop.stl`](./STL/speedDrive_endstop.stl)
 
 ### Stock extruder (cable links version A)
-`speedDrive_mount_cableClip.stl` \
-`speedDrive_endstop.stl` \
+[`speedDrive_mount_cableClip.stl`](./STL/speedDrive_mount_cableClip.stl) \
+[`speedDrive_endstop.stl`](./STL/speedDrive_endstop.stl) \
 https://www.thingiverse.com/thing:3475424
 
 ### BMG extruder (no cable links)
-`speedDrive_mount_bmg.stl` \
-`speedDrive_endstop_bmg.stl` 
+[`speedDrive_mount_bmg.stl`](./STL/speedDrive_mount_bmg.stl) \
+[`speedDrive_endstop_bmg.stl`](./STL/speedDrive_endstop_bmg.stl)
 
 ### BMG extruder (cable links version A)
-`speedDrive_mount_bmg_cableClip.stl` \
-`speedDrive_endstop_bmg.stl` \
+[`speedDrive_mount_bmg_cableClip.stl`](./STL/speedDrive_mount_bmg_cableClip.stl) \
+[`speedDrive_endstop_bmg.stl`](./STL/speedDrive_endstop_bmg.stl) \
 https://www.thingiverse.com/thing:3475424
 
 ### CR-10s PRO extruder
 [Remix by fsironman](https://www.thingiverse.com/thing:3956497) \
-`speedDrive_endstop.stl`
+[`speedDrive_endstop.stl`](./STL/speedDrive_endstop.stl)
 
 ### Redrex geared extruder
 [Remix by huubert](https://www.thingiverse.com/thing:4159487)
@@ -168,7 +168,7 @@ https://www.thingiverse.com/thing:3475424
 [Clever X-cover with endstop by R3br0d0n](https://www.thingiverse.com/thing:4068615) (BMG only)
 
 ## STEP FILES FOR DESIGNERS
-`speedDrive_stepFile.step`
+[`speedDrive_stepFile.step`](./speedDrive_stepFile.step)
 
 
 ## CREDITS 
